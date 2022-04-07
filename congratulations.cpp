@@ -1,3 +1,6 @@
+//Sean Labitigan
+//seannyboy100@csu.fullerton.edu
+//Section 5
 #include <stdio.h>
 #include <stdint.h>
 #include <time.h>

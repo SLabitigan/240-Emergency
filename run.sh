@@ -1,3 +1,6 @@
+#Sean Labitigan
+#seannyboy100@csu.fullerton.edu
+#Section 5
 rm *.o
 rm *.out
 
