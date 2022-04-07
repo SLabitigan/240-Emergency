@@ -6,15 +6,6 @@ global printMessage
 
 segment .data
 congratulate1 db "Contratulations Dr. Jo", 10, 0
-congratulate2 db "Contratulations Dr. Jo", 10, 0
-congratulate3 db "Contratulations Dr. Jo", 10, 0
-congratulate4 db "Contratulations Dr. Jo", 10, 0
-congratulate5 db "Contratulations Dr. Jo", 10, 0
-congratulate6 db "Contratulations Dr. Jo", 10, 0
-congratulate7 db "Contratulations Dr. Jo", 10, 0
-congratulate8 db "Contratulations Dr. Jo", 10, 0
-congratulate9 db "Contratulations Dr. Jo", 10, 0
-congratulate10 db "Contratulations Dr. Jo", 10, 0
 
 segment .bss
 segment .text
